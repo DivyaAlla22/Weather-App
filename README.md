@@ -40,11 +40,11 @@ open index.html
 🖼️ Project Screenshots
 Home Page
 
-Screenshot1.png
+![Weather App Screenshot](Screenshot1.png)
 
 Weather Results
 
-Screenshot2.png
+![Weather App Screenshot](Screenshot2.png)
 
 
 🌐 Live Demo

@@ -50,7 +50,7 @@ Weather Results
 
 🌐 Live Demo
 
-🔗 Click Here to View Live Project
+🔗 Click Here to View Live Project (' https://divyaalla22.github.io/Weather-App/')
 
 💫 Project Highlights
 

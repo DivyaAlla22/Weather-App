@@ -60,6 +60,4 @@ Add dark/light mode toggle
 👩‍💻 Author
 
 Divya Alla
-🌐 Portfolio
 
-💼 LinkedIn

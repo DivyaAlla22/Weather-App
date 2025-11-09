@@ -38,6 +38,7 @@ open index.html
 💡 You can also simply double-click on index.html after downloading the files!
 
 🖼️ Project Screenshots
+
 Home Page
 
 ![Weather App Screenshot](Screenshot1.png)

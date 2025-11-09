@@ -27,7 +27,9 @@ OpenWeatherMap API
 
 📷 Screenshots
 
-![Weather App Screenshot](weather-api.png)
+![Weather App Screenshot](Screenshot1.png)
+
+![Weather App Screenshot](Screenshot2.png)
 
 🔧 Setup Instructions
 

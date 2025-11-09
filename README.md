@@ -30,7 +30,7 @@ OpenWeatherMap API
 (You can add screenshots here after uploading images in your repo)
 Example:
 
-![Weather App Screenshot](./images/weather-app.png)
+![Weather App Screenshot](./images/weather-api.png)
 
 🔧 Setup Instructions
 
